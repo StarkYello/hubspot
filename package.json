@@ -1,0 +1,18 @@
+{
+  "name": "hubspot",
+  "version": "1.0.0",
+  "description": "get HubSpot event participant info from an endpoint, then post the valid participant info to another endpoint",
+  "dependencies": {
+    "bent": "^7.3.12"
+  },
+  "main": "app.js",
+  "bin": {
+    "valid-participant-search": "app.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Xing K. Huang",
+  "license": "MIT"
+}
