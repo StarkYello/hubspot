@@ -1,4 +1,3 @@
-const constants = require('./constants')
 const dataArchive = require('./dataArchive')
 const dataFilter = require('./dataFilter')
 

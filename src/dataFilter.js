@@ -1,5 +1,3 @@
-const constants = require('./constants')
-
 let self = module.exports = {
     filter: function(data){
         let countryMap = self.constructMapFromValidData(data)

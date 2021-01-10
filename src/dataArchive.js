@@ -1,6 +1,6 @@
 const constants = require('./constants')
 const bent = require('bent')
-//https://github.com/mikeal/bent very useful for small project like this
+//https://github.com/mikeal/bent is very useful for small project like this
 
 let self = module.exports = {
     // making dataArchive into another module to separate the data access layer from the main service
