@@ -28,8 +28,6 @@ In the event of any personal usage, please obtain a personal token with HubSpot.
 - run `sudo npm install -g` to install the program 
 
 ## Running
-- keep the server running on the first tab. 
-- on a new tab, cd into the project root directory 
 - `valid-participant-search`
 
 ## After Running (optional)
